@@ -2,7 +2,7 @@
 * I'm an engineer
 * That means: I solve problems
 - (not problems like:
-* "What is beauty?"
+  "What is beauty?"
 ∵ that would fall within the purview of your conundrums of philosophy)
 * I solve practical problems
 - for instance:
