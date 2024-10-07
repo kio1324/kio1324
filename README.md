@@ -2,8 +2,8 @@
 * I'm an engineer
 * That means: I solve problems
 * (not problems like:
-  "What is beauty?"
-∵ that would fall within the purview of your conundrums of philosophy)
+* "What is beauty?"
+* ∵ that would fall within the purview of your conundrums of philosophy)
 * I solve practical problems
 * for instance:
 * how am I going to stop some mean mother Hubbard from tearing me a structurally superfluous be-hind?
